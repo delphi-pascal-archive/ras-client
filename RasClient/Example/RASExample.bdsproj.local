@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.05.16 08:37:55.984.pas,C:\Мои документы\Borland Studio Projects\Unit1.pas=E:\Projects\TestRASClient\RASExamlpe.pas</Transaction>
+    <Transaction>2008.05.16 08:37:55.984.dfm,C:\Мои документы\Borland Studio Projects\Unit1.dfm=E:\Projects\TestRASClient\RASExamlpe.dfm</Transaction>
+    <Transaction>2008.05.16 08:38:16.734.pas,E:\Projects\TestRASClient\RASExamlpe.pas=E:\Projects\TestRASClient\Main.pas</Transaction>
+    <Transaction>2008.05.16 08:38:16.734.dfm,E:\Projects\TestRASClient\RASExamlpe.dfm=E:\Projects\TestRASClient\Main.dfm</Transaction>
+    <Transaction>2008.05.16 08:38:35.171.bdsproj,C:\Мои документы\Borland Studio Projects\Project1.bdsproj=E:\Projects\TestRASClient\RASExample.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
